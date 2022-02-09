@@ -1,0 +1,72 @@
+
+
+body {
+    display: flex;
+    /* background-image: url("./soundboard\ idea.png"); */
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    
+}
+
+    .sounds {
+        display: flex;
+        flex-direction: row;
+        border: rgb(2, 2, 2) solid 5px;
+
+
+    }
+
+     .rasp {
+        display: flex;
+        justify-content: center;
+        border: rgb(228, 20, 20) solid 5px;
+        /* width: 100vw;
+        font-size: 20vh */
+    }    
+    
+    .bang {
+        display: flex;
+        justify-content: center;
+        border: rgb(225, 228, 20) solid 5px;
+        /* width: 100vw;
+        font-size: 20vh */
+    }    
+    
+    .pop {
+        display: flex;
+        justify-content: center;
+        border: rgb(20, 228, 37) solid 5px;
+        /* width: 100vw;
+        font-size: 20vh */
+    }    
+    
+    .bzzz {
+        display: flex;
+        justify-content: center;
+        border: rgb(20, 169, 228) solid 5px;
+        /* width: 100vw;
+        font-size: 20vh */
+    }
+        
+    .smash {
+        display: flex;
+        justify-content: center;
+        border: rgb(51, 20, 228) solid 5px;
+        /* width: 10vw;
+        font-size: 20vh */
+    }        
+    .tap {
+        display: flex;
+        justify-content: center;
+        border: rgb(228, 20, 218) solid 5px;
+        /* width: 100vw;
+        font-size: 20vh */
+    }        
+    .nom {
+        display: flex;
+        justify-content: center;
+        border: rgb(228, 20, 117) solid 5px;
+        /* width: 100vw;
+        font-size: 20vh */
+    }    
